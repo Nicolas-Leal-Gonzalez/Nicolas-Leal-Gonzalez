@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nicolás Leal from Colombia
+- 👀 I’m interested in all VR technology but right now I'm with web development.
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate in Tesla, Meta, Google, or my own company.
+- 📫 You can contact me in my e-mail: nicolasandres.mecatronica@gmail.com, soon in my portfolio.
